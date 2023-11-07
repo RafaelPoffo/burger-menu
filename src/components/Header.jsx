@@ -21,12 +21,10 @@ const Header = () => {
                 </h1>
             </div>
 
-            {/* Menu ícone que aciona o menu flutuante */}
             <div className='menu-icon cursor-pointer w-12 h-12 bg-customOrange border-4 shadow-inner rounded-xl ml-4 ' onClick={toggleMenu}>
                 <img src={process.env.PUBLIC_URL + '/images/menu.svg'} alt="Menu" />
             </div>
 
-            {/* Renderize o menu flutuante condicionalmente com base no estado */}
             {menuVisible && (
                 <div className='floating-menu absolute ml-[5rem] mt-[-3rem] bg-white border shadow-2xl border-gray-300 p-4 rounded-xl'>
                     <div className='flex flex-col justify-center items-center gap-1 p-1 text-lg'>
