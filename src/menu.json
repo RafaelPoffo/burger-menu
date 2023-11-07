@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Brutus Burguer",
+        "description": "Hambúrguer de 180g de carne bovina, queijo, cebola caramelizada no pão de Cará.",
+        "sides": "Acompanha Batata frita",
+        "price": 49.90,
+        "image": "images/brutus-burguer.PNG",
+        "available": true,
+        "type": "hamburguer"
+    },
+    {
+        "id": 2,
+        "name": "Veggie Burguer",
+        "description": "Hambúrguer de grão de bico e queijo cheddar no pão de Cará.",
+        "sides": "Acompanha Batata frita",
+        "price": 40.90,
+        "image": "images/veggie-burguer.PNG",
+        "available": true,
+        "type": "hamburguer"
+    },
+    {
+        "id": 3,
+        "name": "Cheddar Burguer",
+        "description": "Hambúrguer de 180g de carne bovina, queijo cheddar, cebola caramelizada no pão de Cará.",
+        "sides": "Acompanha Maionese",
+        "price": 45.90,
+        "image": "images/cheddar-burguer.PNG",
+        "available": true,
+        "type": "hamburguer"
+    },
+    {
+        "id": 4,
+        "name": "Batata Chips",
+        "description": "Porção de Batata Chips.",
+        "sides": "Acompanha Maionese",
+        "price": 25.90,
+        "image": "images/chips-fries.PNG",
+        "available": true,
+        "type": "acompanhamento"
+    },
+    {
+        "id": 5,
+        "name": "Onion Rings",
+        "description": "Porção de aneis de cebola empanados e fritos",
+        "sides": "Acompanha Maionese",
+        "price": 20.90,
+        "image": "images/onion-rings.PNG",
+        "available": false,
+        "type": "acompanhamento"
+    },
+    {
+        "id": 6,
+        "name": "Cheesecake de Morango",
+        "description": "Delicioso cheesecake de morango",
+        "sides": "",
+        "price": 25.90,
+        "image": "images/cheesecake-morango.PNG",
+        "available": false,
+        "type": "sobremesa"
+    },
+    {
+        "id": 7,
+        "name": "Mousse de Limão",
+        "description": "Delicioso mousse de limão",
+        "sides": "",
+        "price": 22.90,
+        "image": "images/mousse-limao.PNG",
+        "available": false,
+        "type": "sobremesa"
+    },
+    {
+        "id": 8,
+        "name": "Sorvete Sunday de Chocolate",
+        "description": "Delicioso sorvete sunday de chocolate com chantily",
+        "sides": "",
+        "price": 24.90,
+        "image": "images/sorvete-sunday.PNG",
+        "available": true,
+        "type": "sobremesa"
+    },
+    {
+        "id": 9,
+        "name": "Coca-Cola Lata",
+        "description": "Lata de Coca-Cola 350ml",
+        "sides": "",
+        "price": 8.90,
+        "image": "images/coca-cola.PNG",
+        "available": true,
+        "type": "bebida"
+    },
+    {
+        "id": 10,
+        "name": "Guaraná Antartica Lata",
+        "description": "Lata de Guaraná Antartica 350ml",
+        "sides": "",
+        "price": 8.90,
+        "image": "images/guarana-antartica.PNG",
+        "available": true,
+        "type": "bebida"
+    },
+    {
+        "id": 11,
+        "name": "Suco de Laranja",
+        "description": "Suco de Laranja natural",
+        "sides": "",
+        "price": 14.90,
+        "image": "images/suco-laranja.PNG",
+        "available": true,
+        "type": "bebida"
+    }
+]
