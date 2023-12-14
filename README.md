@@ -24,3 +24,6 @@ You may also see any lint errors in the console.
 • Adjust the menu items and details in the menu.json file.
 
 • Personalize the styling by modifying the TailwindCSS styles in the respective components.
+
+####
+• Test
