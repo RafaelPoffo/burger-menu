@@ -27,5 +27,5 @@ You may also see any lint errors in the console.
 
 ####
 
-• Test 01 in remote repository
+• Test 02 in remote repository
 
